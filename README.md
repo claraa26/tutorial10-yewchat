@@ -5,6 +5,11 @@
 ### 3.1. Original code
 ![](https://imgur.com/TsHSgdW.jpg)
 
+### 3.2. Add some creativities to the webclient
+![](https://imgur.com/kRsT9c2.jpg)
+![](https://imgur.com/zKASHds.jpg)
+
+Melakukan perubahan terhadap logo chat menjadi panda. Merubah warna menjadi biru dan tombol menjadi pink.g
 
 
 
